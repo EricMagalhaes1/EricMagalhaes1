@@ -1,6 +1,6 @@
 ### Hi there I'm Eric Magalhães👋
 
-- 🔭 Atualmente buscando estagio
+- 🔭 Buscando estagio
 - 🌱 Atualmente estudando Python
 - 😄 Pronomes : Ele/Dele
   

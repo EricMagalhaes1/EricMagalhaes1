@@ -1,7 +1,5 @@
 ### Olá, eu sou Eric Magalhães👋
 
-- 🔭 Buscando estagio
-- 🌱 Atualmente estudando Python
   
 
 

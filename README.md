@@ -1,5 +1,5 @@
-### Olá, eu sou Eric Magalhães👋
-
+### Olá, eu sou Eric Magalhães
+### Atualmente no 3º ano do Cotemig
 <div>
   <img img height="210em"  src="https://github-readme-stats.vercel.app/api?username=EricMagalhaes1&show_icons=true&theme=radical">  
   <img img height="210em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricMagalhaes1&hide_progress=false&theme=radical">
